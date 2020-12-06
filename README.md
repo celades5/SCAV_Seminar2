@@ -1,7 +1,5 @@
 # SCAV_Seminar2
 
-**Teacher:** Javi Fernandez
-
 Tis readme intents to explain the second seminar in the SCAV subject for the video part.
 
 This repository consists in two parts. First a pdf file which cointants the resolution for the exercises. A python file with a little menu as expected.
